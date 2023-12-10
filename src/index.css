@@ -1,40 +1,40 @@
 /* ================================Text================================ */
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Thin.ttf);
+    src: url(/webfonts/JetBrainsMono-ExtraLight.ttf);
     font-weight: 300;
 }
 
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Light.ttf);
+    src: url(/webfonts/JetBrainsMono-Light.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Regular.ttf);
+    src: url(/webfonts/JetBrainsMono-Regular.ttf);
     font-weight: 500;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Medium.ttf);
+    src: url(/webfonts/JetBrainsMono-Medium.ttf);
     font-weight: 600;
     font-weight: bold;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ SemiBold.ttf);
+    src: url(/webfonts/JetBrainsMono-SemiBold.ttf);
     font-weight: 700;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Bold.ttf);
+    src: url(/webfonts/JetBrainsMono-Bold.ttf);
     font-weight: 800;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Black.ttf);
+    src: url(/webfonts/JetBrainsMono-ExtraBold.ttf);
     font-weight: 900;
 }
 @font-face {
