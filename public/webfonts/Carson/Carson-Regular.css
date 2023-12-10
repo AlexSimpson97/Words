@@ -1,0 +1,12 @@
+/* Webfont: Carson-Regular */@font-face {
+    font-family: 'Regular';
+    src: url('Carson-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Carson-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Carson-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Carson-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Carson-Regular.svg#Carson-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

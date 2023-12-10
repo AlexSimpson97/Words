@@ -1,0 +1,12 @@
+/* Webfont: Carson-BlackOblique */@font-face {
+    font-family: 'Black';
+    src: url('Carson-BlackOblique.eot'); /* IE9 Compat Modes */
+    src: url('Carson-BlackOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Carson-BlackOblique.woff') format('woff'), /* Modern Browsers */
+         url('Carson-BlackOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Carson-BlackOblique.svg#Carson-BlackOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,12 @@
+/* Webfont: TropicalBeachy-Regular */@font-face {
+    font-family: 'TropicalBeachy';
+    src: url('TropicalBeachy-Regular.eot'); /* IE9 Compat Modes */
+    src: url('TropicalBeachy-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TropicalBeachy-Regular.woff') format('woff'), /* Modern Browsers */
+         url('TropicalBeachy-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('TropicalBeachy-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

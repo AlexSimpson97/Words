@@ -1,0 +1,12 @@
+/* Webfont: Carson-MediumOblique */@font-face {
+    font-family: 'Medium';
+    src: url('Carson-MediumOblique.eot'); /* IE9 Compat Modes */
+    src: url('Carson-MediumOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Carson-MediumOblique.woff') format('woff'), /* Modern Browsers */
+         url('Carson-MediumOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Carson-MediumOblique.svg#Carson-MediumOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

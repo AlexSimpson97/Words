@@ -1,0 +1,12 @@
+/* Webfont: Carson-Bold */@font-face {
+    font-family: 'Bold';
+    src: url('Carson-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Carson-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Carson-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Carson-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Carson-Bold.svg#Carson-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
