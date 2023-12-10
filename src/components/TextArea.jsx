@@ -1,12 +1,9 @@
 import { useState } from "react";
 import Warning from "./Warning";
-
 export default function TextArea({userText, SetUserText, warningText, setWarningText}) {
-
     function handleTextInput(event) {
         setWarningText("");
         let moddedText = event.target.value;
-
         if (moddedText.includes("<script>")) {
             setWarningText("No script tags allowed");
             moddedText = moddedText.replace("<script>", "");
@@ -26,13 +23,10 @@ export default function TextArea({userText, SetUserText, warningText, setWarning
 
         SetUserText(moddedText);
     }
-
     function handleBeginTyping() {
         SetUserText("");
     }
-
     // console.log(userText);
-
     return (
         <div className="textarea">
             <>
@@ -47,5 +41,4 @@ export default function TextArea({userText, SetUserText, warningText, setWarning
             </>
         </div>
     );
-
 }
