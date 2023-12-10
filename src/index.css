@@ -223,4 +223,8 @@ html {
         flex-direction: column;
         align-items: center;
     }
+    
+    .warning {
+        top: 6px;
+    }
 }
