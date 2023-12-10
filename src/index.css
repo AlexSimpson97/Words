@@ -1,45 +1,45 @@
 /* ================================Text================================ */
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Thin.ttf);
+    src: url(./webfonts/Gelion/Gelion\ Thin.ttf);
     font-weight: 300;
 }
 
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Light.ttf);
+    src: url(./webfonts/Gelion/Gelion\ Light.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Regular.ttf);
+    src: url(./webfonts/Gelion/Gelion\ Regular.ttf);
     font-weight: 500;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Medium.ttf);
+    src: url(./webfonts/Gelion/Gelion\ Medium.ttf);
     font-weight: 600;
     font-weight: bold;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ SemiBold.ttf);
+    src: url(./webfonts/Gelion/Gelion\ SemiBold.ttf);
     font-weight: 700;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Bold.ttf);
+    src: url(./webfonts/Gelion/Gelion\ Bold.ttf);
     font-weight: 800;
 }
 @font-face {
     font-family: monoDrip;
-    src: url(/webfonts/Gelion/Gelion\ Black.ttf);
+    src: url(./webfonts/Gelion/Gelion\ Black.ttf);
     font-weight: 900;
 }
 @font-face {
     font-family: monoRead;
-    src: url(/webfonts/Synonym/Synonym\ Medium.otf);
+    src: url(/public/webfonts/Synonym/Synonym\ Medium.otf);
 }
 
 * {
