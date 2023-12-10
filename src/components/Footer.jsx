@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="footer" >
             <small>
-                &copy; Copyright by Panoptica. All rights reserved.
+                &copy; Copyright by TamiSimpson. All rights reserved.
             </small>
             <small>Last checked limits: 17 days ago</small>
         </footer>
