@@ -24,7 +24,10 @@ export default function TextArea({userText, SetUserText, warningText, setWarning
         SetUserText(moddedText);
     }
     function handleBeginTyping() {
-        SetUserText("");
+        if (userText === "Enter your text here") {
+            SetUserText("");
+        }
+        setWarningText("");
     }
     // console.log(userText);
     return (
