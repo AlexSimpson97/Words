@@ -20,6 +20,10 @@ export default function TextArea({userText, SetUserText, warningText, setWarning
             setWarningText("No fucks allowed, straight to horny jail!");
             moddedText = moddedText.replace("fuck", "JAIL!");
         }
+        } else if (moddedText.includes("Fuck")) {
+            setWarningText("No fucks allowed, straight to horny jail!");
+            moddedText = moddedText.replace("fuck", "JAIL!");
+        }
 
         SetUserText(moddedText);
     }
