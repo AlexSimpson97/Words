@@ -1,3 +1,3 @@
-# React + Vite
+# Word Analytics
 
 Demo App for testing deployement
