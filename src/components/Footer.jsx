@@ -6,7 +6,7 @@ export default function Footer() {
             <small>
                 &copy; Copyright by TamiSimpson. All rights reserved.
             </small>
-            <small>Last checked limits: 17 days ago</small>
+            <small>Last checked limits: 1 hour ago</small>
         </footer>
     )
 }

@@ -87,6 +87,18 @@ html {
             rgba(24, 120, 175, 0.9)
         ),
         url("https://images.unsplash.com/photo-1546453667-8a8d2d07bc20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=100");
+    background-color: #241f47;
+    background-image: radial-gradient(
+            57.72% 58.33% at 47.37% 102.73%,
+            rgba(255, 185, 162, 0.5) 0,
+            rgba(36, 31, 71, 0) 100%
+        ),
+        radial-gradient(
+            92.32% 103.31% at 7.16% 96.06%,
+            rgba(117, 116, 230, 0.9) 0%,
+            rgba(36, 31, 71, 0) 100%
+        );
+    background-blend-mode: initial;
 }
 
 .first-heading {
@@ -223,7 +235,7 @@ html {
         flex-direction: column;
         align-items: center;
     }
-    
+
     .warning {
         top: 6px;
     }
