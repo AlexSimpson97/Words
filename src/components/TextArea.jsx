@@ -20,9 +20,8 @@ export default function TextArea({userText, SetUserText, warningText, setWarning
             { regex: /\bcoon\b/gi, warning: "Consider this, instead", replacement: "Uncle Tom" },
             { regex: /hoe/gi, warning: "Come on now, be nice", replacement: "heroe" },
             { regex: /\bhoes\b/gi, warning: "Come on now, be nice", replacement: "hero" },
-            { regex: /\bhos\b/gi, warning: "Come on now, be nice", replacement: "hero" },
-            { regex: /\bhoe\b/gi, warning: "Come on now, be nice", replacement: "hero" },
             { regex: /\bho\b/gi, warning: "Come on now, be nice", replacement: "hero" },
+            { regex: /\bhos\b/gi, warning: "Come on now, be nice", replacement: "hero" },
         ];
     
         for (let i = 0; i < cases.length; i++) {
